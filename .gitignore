@@ -33,3 +33,6 @@ hs_err_pid*
 /chapter 1/1.2.CodeOnlyHelloWorld/nbproject/private/
 /chapter 1/1.1.HelloWorld/nbproject/private/
 /chapter 2/2.1.Events/nbproject/private/
+/chapter 2/2.2.EventsInSwing/nbproject/private/
+/chapter 2/2.2.EventsInSwing/dist/
+/chapter 2/2.2.EventsInSwing/build/
