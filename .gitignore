@@ -25,3 +25,11 @@ hs_err_pid*
 /chapter 1/HelloWorld/build/
 /chapter 1/CodeOnlyHelloWorld/nbproject/private/
 /chapter 1/CodeOnlyHelloWorld/build/
+/chapter 2/Events/nbproject/private/
+/chapter 2/Events/build/
+/chapter 1/CodeOnlyHelloWorld/dist/
+/chapter 2/Events/dist/
+/chapter 1/1.HelloWorld/nbproject/private/
+/chapter 1/1.2.CodeOnlyHelloWorld/nbproject/private/
+/chapter 1/1.1.HelloWorld/nbproject/private/
+/chapter 2/2.1.Events/nbproject/private/
